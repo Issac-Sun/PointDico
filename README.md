@@ -6,7 +6,7 @@ We propose PointDico, the first diffusion-guided contrastive learning framework 
 
 
 <div  align="center">    
- <img src="./figure/pipeline.pdf" width = "666"  align=center />
+ <img src="./figure/pipeline.png" width = "666"  align=center />
 </div>
 
 [Pengbo Li](https://github.com/420688166), [Yiding Sun*](https://github.com/Issac-Sun), Haozhe Cheng
