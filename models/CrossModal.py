@@ -6,7 +6,7 @@ import os
 import random
 
 '''
-We follow RECON (Qi er al. 2023) to use CLIP as the image encoder and text encoder.
+We follow RECON (Qi et al. 2023) to use CLIP as the image encoder and text encoder.
 We add middle prompts to the text encoder to improve the performance.
 
 '''
